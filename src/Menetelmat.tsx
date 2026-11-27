@@ -1,4 +1,4 @@
-const REPO = 'https://github.com/Lylled/nimigeneraattori'
+const REPO = 'https://github.com/Lylled/nimikirja'
 
 const tiedosto = (polku: string) => (
   <a href={`${REPO}/blob/main/${polku}`}>
@@ -189,7 +189,7 @@ export default function Menetelmat() {
           Tarkempi kuvaus lähteistä ja korjauksista on tiedostossa{' '}
           {tiedosto('docs/data-sources.md')} ja datan rakenteesta tiedostossa{' '}
           {tiedosto('docs/data-schema.md')}. Lähdekoodi:{' '}
-          <a href={REPO}>github.com/Lylled/nimigeneraattori</a>.
+          <a href={REPO}>github.com/Lylled/nimikirja</a>.
         </p>
         <p>
           Lähde: Digi- ja väestötietovirasto, Nimipalvelu ja
