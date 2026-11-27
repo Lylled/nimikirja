@@ -2,7 +2,7 @@
 
 Nimikirja on nimigeneraattori luoviin projekteihin, kuten kirjojen ja pelien hahmoille. Valitse syntymävuosi, niin sivu ehdottaa aikakauteen sopivia suomalaisia nimiä kolmessa kategoriassa: **hyvin yleinen**, **yleinen** ja **hieman harvinaisempi**.
 
-**Sivusto: https://lylled.github.io/nimigeneraattori/**
+**Sivusto: https://lylled.github.io/nimikirja/**
 
 ![Nimikirja: vuoden 1925 naisten nimet sukunimineen](docs/kuvat/generaattori.png)
 
@@ -14,7 +14,7 @@ Nimikirja on nimigeneraattori luoviin projekteihin, kuten kirjojen ja pelien hah
 - **Suodattimet:** tyyli (luonto, raamatullinen, kansallisromanttinen, hyve- ja tunne, perinteinen, säätyläinen, kansainvälinen) ja alkukirjain.
 - **Nimikortit:** etunimen alkuperä, tyylit ja suosiokäyrä 1900–2026; sukunimen tyyppi, tausta ja tyypillinen alue.
 - **Jaettava linkki:** hakuasetukset tallentuvat osoitteeseen.
-- **[Menetelmät ja lähteet](https://lylled.github.io/nimigeneraattori/#menetelmat)** -sivu kertoo, mistä nimet tulevat ja mihin tuloksiin voi luottaa.
+- **[Menetelmät ja lähteet](https://lylled.github.io/nimikirja/#menetelmat)** -sivu kertoo, mistä nimet tulevat ja mihin tuloksiin voi luottaa.
 
 ![Historialliset nimet: länsisuomalaiset miehet 1820 isännimineen ja talonnimineen](docs/kuvat/historia.png)
 

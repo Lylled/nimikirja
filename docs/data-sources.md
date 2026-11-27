@@ -1,6 +1,6 @@
 # Datalähteet: DVV 1900 →
 
-Tarinan 2.1 ([#7](https://github.com/Lylled/nimigeneraattori/issues/7)) tulokset. Tarkistettu 17.10.2026.
+Tarinan 2.1 ([#7](https://github.com/Lylled/nimikirja/issues/7)) tulokset. Tarkistettu 17.10.2026.
 
 ## Yhteenveto
 

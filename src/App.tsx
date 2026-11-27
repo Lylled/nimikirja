@@ -606,7 +606,7 @@ function App() {
               <>
                 {' '}
                 <a
-                  href={`https://github.com/Lylled/nimigeneraattori/blob/main/${perinteenTiedot.lahdetiedosto}`}
+                  href={`https://github.com/Lylled/nimikirja/blob/main/${perinteenTiedot.lahdetiedosto}`}
                 >
                   Lähdeluettelo
                 </a>
@@ -665,7 +665,7 @@ function SukunimiInfo() {
         Generaattori valitsee nimimuodon alueen ja syntymävuoden mukaan.
         Siirtymäaikana 1880–1919 sukunimi yleistyy vähitellen. Rajat ovat
         yleistyksiä.{' '}
-        <a href="https://github.com/Lylled/nimigeneraattori/blob/main/docs/data-sources.md#sukunimet">
+        <a href="https://github.com/Lylled/nimikirja/blob/main/docs/data-sources.md#sukunimet">
           Lähteet
         </a>
       </p>
