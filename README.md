@@ -1,4 +1,4 @@
-# nimigeneraattori
+# Nimikirja
 
 Nimigeneraattori luoviin projekteihin, kuten kirjojen ja pelien hahmoille. Valitse syntymävuosi, niin sivu ehdottaa aikakauteen sopivia suomalaisia nimiä kolmessa kategoriassa: **hyvin yleinen**, **yleinen** ja **hieman harvinaisempi**.
 
