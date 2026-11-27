@@ -32,7 +32,7 @@ export default function Menetelmat() {
       </section>
 
       <section>
-        <h2>Nimitilastot 1900–2026</h2>
+        <h2>Modernit nimet 1900–2026</h2>
         <ul>
           <li>
             <strong>Lähde:</strong> DVV:n Nimipalvelun 100 yleisintä etunimeä

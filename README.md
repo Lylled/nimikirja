@@ -1,14 +1,14 @@
 # Nimikirja
 
-Nimigeneraattori luoviin projekteihin, kuten kirjojen ja pelien hahmoille. Valitse syntymävuosi, niin sivu ehdottaa aikakauteen sopivia suomalaisia nimiä kolmessa kategoriassa: **hyvin yleinen**, **yleinen** ja **hieman harvinaisempi**.
+Nimikirja on nimigeneraattori luoviin projekteihin, kuten kirjojen ja pelien hahmoille. Valitse syntymävuosi, niin sivu ehdottaa aikakauteen sopivia suomalaisia nimiä kolmessa kategoriassa: **hyvin yleinen**, **yleinen** ja **hieman harvinaisempi**.
 
 **Sivusto: https://lylled.github.io/nimigeneraattori/**
 
-![Nimigeneraattori: vuoden 1925 naisten nimet sukunimineen](docs/kuvat/generaattori.png)
+![Nimikirja: vuoden 1925 naisten nimet sukunimineen](docs/kuvat/generaattori.png)
 
 ## Ominaisuudet
 
-- **Kaksi aineistoa:** *Nimitilastot* 1900–2026 perustuu DVV:n dataan, *Historialliset nimet* 1700–1899 käsin koottuihin arvioihin.
+- **Kaksi aineistoa:** *Modernit nimet* 1900–2026 perustuu DVV:n dataan, *Historialliset nimet* 1700–1899 käsin koottuihin arvioihin.
 - **Nimiperinteet:** koko Suomi, suomenruotsalainen tai ortodoksinen.
 - **Sukunimet** alueen ja aikakauden mukaan. Ennen 1880-lukua länsisuomalainen hahmo saa isännimen ja talonnimen, ja suluissa näkyy kirkonkirjoihin kirjattu ruotsalainen muoto.
 - **Suodattimet:** tyyli (luonto, raamatullinen, kansallisromanttinen, hyve- ja tunne, perinteinen, säätyläinen, kansainvälinen) ja alkukirjain.

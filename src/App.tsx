@@ -51,7 +51,7 @@ const vuodet = (data: NimiData) => ({
 
 const OSIOT: Record<Osio, OsionTiedot> = {
   tilastot: {
-    otsikko: 'Nimitilastot',
+    otsikko: 'Modernit nimet',
     data: OLETUSDATA,
     rajat: OLETUSRAJAT,
     ...vuodet(OLETUSDATA),
@@ -351,7 +351,7 @@ function App() {
   return (
     <main className="app">
       <header>
-        <h1>Nimigeneraattori</h1>
+        <h1>Nimikirja</h1>
         <p className="lead">
           Aikakauteen sopivia suomalaisia nimiä luoviin projekteihin.
         </p>
