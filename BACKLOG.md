@@ -1,4 +1,4 @@
-# Nimigeneraattori – product backlog
+# Nimikirja – product backlog
 
 Nimigeneraattori kirjan hahmoille: käyttäjä valitsee syntymävuoden (1650 →) ja sukupuolen, ja sivu ehdottaa aikakauteen sopivia nimiä kolmessa kategoriassa: **hyvin yleinen**, **yleinen** ja **hieman harvinaisempi**.
 
